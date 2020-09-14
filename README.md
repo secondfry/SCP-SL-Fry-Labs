@@ -1,7 +1,6 @@
 # SCP:SL Fry Labs Hub
 ## Framework
-- ServerMod.  
-  Возможен переход на modified ServerMod.
+- Modified ServerMod.
 
 ## Plugins
 - MiniPocketExitChange by iRebbok.  
@@ -17,5 +16,7 @@
   Наш плагин серверных наград (пионер подобных плагинов в ру-сегменте).
 - SF's Stop Disabling Nuke.  
   Наш плагин отключения абуза отключения боеголовки.
+- SF's Role Chooser.
+  Наш плагин выбора роли при старте раунда (пионер подобных плагинов в ру-сегменте).
 
 [laterjoin]: https://github.com/secondfry/SCP-SL-Smod2-SF-s-Later-Join
